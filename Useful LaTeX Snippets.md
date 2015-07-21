@@ -42,7 +42,13 @@ And to use it:
 	
 	
 ## Draft Watermark
+http://texblog.org/2012/02/17/watermarks-draft-review-approved-confidential/
 
 	\usepackage{draftwatermark}
 	% \SetWatermarkText{Watermark Text} % Will default to DRAFT
 	\SetWatermarkScale{5}
+
+
+# Improve Captions
+
+	\usepackage[center, labelsep=colon, font=bf, skip=5pt]{caption}
